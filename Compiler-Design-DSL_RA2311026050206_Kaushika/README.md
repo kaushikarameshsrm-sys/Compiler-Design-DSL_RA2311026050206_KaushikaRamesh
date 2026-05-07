@@ -43,5 +43,5 @@ Result = 30
 ```
 
 ## Team Details
-- Name:
-- Register Number:
+- Name: Kaushika. R
+- Register Number: RA2311026050206
